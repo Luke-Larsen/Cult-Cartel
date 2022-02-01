@@ -1,0 +1,14 @@
+body {
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.footerDesign{
+    padding: 10px;
+    font-size: 16px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px; 
+    color: white;
+    border-radius: 50%;
+    border: 2px white solid;
+}
